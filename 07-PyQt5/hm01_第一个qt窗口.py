@@ -6,4 +6,4 @@
 # 4.等待窗口停止
 """
 
-print("hello world")
+# print("hello world")
